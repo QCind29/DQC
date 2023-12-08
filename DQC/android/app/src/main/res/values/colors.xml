@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tfe_color_primary">#2BCC6F</color>
+    <color name="tfe_color_primary_dark">#66F9B0</color>
+    <color name="tfe_color_accent">#425066</color>
+
+    <color name="colorPrimary">#2BCC6F</color>
+    <color name="colorPrimaryDark">#2BCC6F</color>
+    <color name="colorAccent">#333333</color>
+    <color name="colorPrimaryLight">#E9F8F1</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBackground">#EBEBEB</color>
+    <color name="colorTrendingStart">#00B09B</color>
+    <color name="colorTrendingEnd">#96C930</color>
+    <color name="colorDivider">#D6D6D6</color>
+
+    <color name="tfe_semi_transparent">#66000000</color>
+
+    <color name="control_background">#cc4285f4</color>
+    <color name="selection_highlight">#aaaaaa</color>
+    <color name="selection_focus">#eeaa55</color>
+    <color name="item_normal">#eeeeee</color>
+</resources>
